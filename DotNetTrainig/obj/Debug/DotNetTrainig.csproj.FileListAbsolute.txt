@@ -1,0 +1,17 @@
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\bin\Debug\chromedriver.exe
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\bin\Debug\chromedriver-license.txt
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\bin\Debug\DotNetTrainig.exe.config
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\bin\Debug\DotNetTrainig.exe
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\bin\Debug\DotNetTrainig.pdb
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\bin\Debug\nunit.framework.dll
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\bin\Debug\WebDriver.dll
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\bin\Debug\WebDriver.Support.dll
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\bin\Debug\nunit.framework.pdb
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\bin\Debug\nunit.framework.xml
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\bin\Debug\WebDriver.xml
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\bin\Debug\WebDriver.Support.xml
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\obj\Debug\DotNetTrainig.csprojAssemblyReference.cache
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\obj\Debug\DotNetTrainig.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\obj\Debug\DotNetTrainig.csproj.CopyComplete
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\obj\Debug\DotNetTrainig.exe
+C:\Users\Daniela\source\repos\DotNetTrainig\DotNetTrainig\obj\Debug\DotNetTrainig.pdb
